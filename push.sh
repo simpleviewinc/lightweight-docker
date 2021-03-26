@@ -1,0 +1,1 @@
+docker push ghcr.io/simpleviewinc/sunny:latest
